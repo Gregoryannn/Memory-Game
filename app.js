@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultDisplay = document.querySelector('#result')
     let cardsChosen = []
     let cardsChosenId = []
-    let cardsWon = []
+    var cardsWon = []
 
 
     //create your board
